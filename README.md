@@ -1,22 +1,24 @@
-# Sistema de Gestão de Projetos
+Sistema de Gestão de Projetos
 
-Projeto desenvolvido em Java utilizando Swing para gerenciamento de usuários, equipes, projetos e tarefas.
+Tecnologias:
+- Java
+- Swing
+- POO
+- MVC
 
-## Funcionalidades
+Funcionalidades:
+- Cadastro de usuários
+- Gestão de equipes
+- Gestão de projetos
+- Controle de tarefas
+- Relatórios
 
-* Cadastro de usuários
-* Gerenciamento de equipes
-* Gerenciamento de projetos
-* Controle de tarefas
-* Relatórios
-* Interface gráfica em Java Swing
+Estrutura:
+controller/
+model/
+view/
 
-## Tecnologias
-
-* Java
-* Java Swing
-* Programação Orientada a Objetos (POO)
-
-## Autor
-
-Enzo
+Como executar:
+1. Clone o repositório
+2. Abra no IntelliJ IDEA
+3. Execute Main.java
